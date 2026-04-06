@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+python-dotenv
+python-multipart
+pydantic
+Pillow
+pandas
+openpyxl
+# TODO: Add more as needed
+
